@@ -1,0 +1,20 @@
+div {
+    background-color: rgb(163, 247, 247);
+    border: 1px solid black
+}
+
+li {
+    color: green
+}
+
+.heading {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#item1 {
+    color: red
+}
+
+body {
+    margin: 0
+}
